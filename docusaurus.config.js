@@ -7,16 +7,17 @@ const config = {
   favicon: 'img/buho_.ico',
 
   // Set the production url of your site here
-  url: 'https://palominofacturador.github.io',
+  url: 'https://Diego-Palomino-Jjjeeee.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/facturadorpro3',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'https://github.com/Diego-Palomino-Jjjeeee', // Usually your GitHub org/user name.
-  projectName: 'Caso-2', // Usually your repo name.
+  organizationName: 'Diego-Palomino-Jjjeeee', // Usually your GitHub org/user name.
+  projectName: 'facturadorpro3', // Usually your repo name.
   deploymentBranch:'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,8 +26,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'es',
-    locales: ['es'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [

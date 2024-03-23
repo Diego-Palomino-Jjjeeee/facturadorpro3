@@ -7,9 +7,8 @@ Repositorio de documentación del Facturador Pro .
 - Versión actualizada de [Node js ](https://nodejs.org/en/)
 - Npm debe estar instalado 
 
-:::info IMPORTANTE:
-La versión de Node.js recomendada es la 18 LTS. 
-:::
+> [!IMPORTANT]
+>La versión de Node.js recomendada es la 18 LTS. 
 
 ## Clonar el Repositorio
 
